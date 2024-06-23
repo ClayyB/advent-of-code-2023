@@ -53,11 +53,3 @@ while j<len(data):
     j+=1
     
 print(summ)
-
-
-
-    
-     
-
-
- 
