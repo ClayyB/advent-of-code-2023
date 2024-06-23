@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  3 15:27:08 2023
-
-@author: clari
-"""
-
 import re
 
 # Read in file

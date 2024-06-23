@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  3 11:45:43 2023
-
-@author: clari
-"""
-
 file = open("input.txt", mode='r')
 
 data = file.read()
